@@ -1,3 +1,3 @@
 # ManhattanbySail
 Contains:
-- API created to format a csv file downloaded from FareHarbor and upload that information onto a Google Calendar
+- Formats a csv file downloaded from FareHarbor and uploads that information onto a Google Calendar
